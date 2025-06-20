@@ -15,9 +15,9 @@
 
 ### GitHub Stats
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=leonardomedranotorres&show_icons=true&theme=tokyonight" alt="Leonardo's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardomedranotorres&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardomedranotorres&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
