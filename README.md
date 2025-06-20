@@ -7,8 +7,8 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#" />
- <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="40" alt="Java logo" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/liferay.svg" width="40" alt="Liferay" />
+   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="40" alt="Java logo" />
+  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" width="40" alt="PHP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" width="40" alt="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
