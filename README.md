@@ -1,6 +1,6 @@
 <h1 align="center">Leonardo Alonso Medrano Torres</h1>
 
-### Tecnologías y herramientas
+### Technologies and tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#" />
@@ -23,7 +23,7 @@
 
 ---
 
-### Actualmente trabajando en:
+### Currently working on:
 
 - Sistema de evaluaciones educativas en ASP.NET
 - Automatización de calificación con OpenAI
