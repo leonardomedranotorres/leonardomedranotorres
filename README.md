@@ -1,5 +1,3 @@
-<h1 align="center">Leonardo Alonso Medrano Torres</h1>
-
 ### Technologies and tools
 
 <p align="left">
