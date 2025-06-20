@@ -15,8 +15,16 @@
 
 ### GitHub Stats
 
-
-| <img src="https://github-readme-stats.vercel.app/api?username=leonardomedranotorres&show_icons=true&theme=tokyonight" alt="Leonardo's GitHub stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardomedranotorres&layout=compact&theme=tokyonight" alt="Top Languages" /> |
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=leonardomedranotorres&show_icons=true&theme=tokyonight" alt="Leonardo's GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardomedranotorres&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
