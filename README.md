@@ -1,9 +1,9 @@
-<h1 align="center">👋 ¡Hola! Soy Leonardo Alonso Medrano Torres</h1>
+<h1 align="center">Leonardo Alonso Medrano Torres</h1>
 <h3 align="center">Desarrollador Full Stack apasionado por ASP.NET y las soluciones educativas</h3>
 
 ---
 
-### 🧰 Tecnologías y herramientas
+### Tecnologías y herramientas
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#" />
@@ -17,7 +17,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardomedranotorres&show_icons=true&theme=tokyonight)
 
@@ -25,14 +25,14 @@
 
 ---
 
-### 🌐 Conectemos
+### Conectemos
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/leonardomedranotorres)
 - [![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube)](https://www.youtube.com/@leonardomedranotorres)
 
 ---
 
-### 📌 Actualmente trabajando en:
+### Actualmente trabajando en:
 
 - Sistema de evaluaciones educativas en ASP.NET
 - Automatización de calificación con OpenAI
