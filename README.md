@@ -18,12 +18,12 @@
 <table border="0">
   <tr>
     <td>
-      <a href="https://github.com/leonardomedranotorres">
+      <a href="https://github.com/search?q=extension%3Acss+user%3Aleonardomedranotorres&type=code">
         <img src="https://github-readme-stats.vercel.app/api?username=leonardomedranotorres&show_icons=true&theme=tokyonight" alt="Leonardo's GitHub stats" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/leonardomedranotorres">
+      <a href="https://github.com/search?q=extension%3Ahtml+user%3Aleonardomedranotorres&type=code">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardomedranotorres&layout=compact&theme=tokyonight" alt="Top Languages" />
       </a>
     </td>
