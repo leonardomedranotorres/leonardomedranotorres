@@ -7,7 +7,7 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/java.svg" width="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/liferay.svg" width="40" alt="Liferay" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" />
