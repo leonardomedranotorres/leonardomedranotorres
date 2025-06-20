@@ -1,6 +1,4 @@
 <h1 align="center">Leonardo Alonso Medrano Torres</h1>
-<h3 align="center">Desarrollador Full Stack apasionado por ASP.NET y las soluciones educativas</h3>
-
 ---
 
 ### Tecnologías y herramientas
