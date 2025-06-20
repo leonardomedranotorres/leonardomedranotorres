@@ -1,9 +1,3 @@
-# 👋 ¡Hola! Soy Leonardo
-
-Soy un desarrollador web apasionado por ASP.NET, C#, y la creación de soluciones reales para problemas del mundo académico y empresarial.
-
----
-
 ### 🧰 Tecnologías y herramientas
 
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)
