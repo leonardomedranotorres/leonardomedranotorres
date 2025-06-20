@@ -15,7 +15,7 @@
 
 ### GitHub Stats
 
-<table>
+<table border="0">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=leonardomedranotorres&show_icons=true&theme=tokyonight" alt="Leonardo's GitHub stats" />
