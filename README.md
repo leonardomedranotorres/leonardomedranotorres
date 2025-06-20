@@ -13,7 +13,7 @@
 
 ---
 
-### GitHub Stats
+### GitHub Stats (Repositories Public)
 
 <table border="0">
   <tr>
