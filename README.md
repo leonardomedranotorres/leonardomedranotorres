@@ -27,6 +27,9 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardomedranotorres&layout=compact&theme=tokyonight&cache_seconds=0" />
       </a>
     </td>
+    <TD>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=leonardomedranotorres&theme=tokyonight&hide_border=true" />
+    </TD>
   </tr>
 </table>
 
