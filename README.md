@@ -27,10 +27,6 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardomedranotorres&layout=compact&theme=tokyonight&cache_seconds=0" />
       </a>
     </td>
-    <td>
-      <a href="https://github.com/search?q=path%3A%2A.html+user%3Aleonardomedranotorres&type=code">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=leonardomedranotorres&theme=tokyonight&hide_border=true" />
-    </td>
   </tr>
 </table>
 
@@ -41,3 +37,7 @@
 - Sistema de evaluaciones educativas en ASP.NET
 - Automatización de calificación con OpenAI
 - Manejo de archivos PDF y OCR con IA
+  
+### Currently learning:
+- Integración de IA con Vertex AI y Gemini 2.5 usando C#
+- Desarrollo Full Stack con Node.js, React, TypeScript y NestJS
