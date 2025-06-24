@@ -19,12 +19,12 @@
   <tr>
     <td>
       <a href="https://github.com/search?q=path%3A%2A.css+user%3Aleonardomedranotorres&type=code">
-        <img src="https://github-readme-stats.vercel.app/api?username=leonardomedranotorres&show_icons=true&theme=tokyonight" alt="Leonardo's GitHub stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=leonardomedranotorres&show_icons=true&theme=tokyonight&cache_seconds=0" />
       </a>
     </td>
     <td>
       <a href="https://github.com/search?q=path%3A%2A.html+user%3Aleonardomedranotorres&type=code">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardomedranotorres&layout=compact&theme=tokyonight" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardomedranotorres&layout=compact&theme=tokyonight&cache_seconds=0" />
       </a>
     </td>
   </tr>
