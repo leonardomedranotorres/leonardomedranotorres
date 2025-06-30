@@ -35,8 +35,7 @@
 ### Currently working on:
 
 - Sistema de evaluaciones educativas en ASP.NET
-- Automatización de calificación con OpenAI
-- Manejo de archivos PDF y OCR con IA
+- Automatización de calificación con Vertex AI y Gemini 2.5 (Evalúa respuestas de alumnos con o sin imagen cargada)
   
 ### Currently learning:
 - Integración de IA con Vertex AI y Gemini 2.5 usando C#
