@@ -1,4 +1,4 @@
-### Technologies and tools
+### Tecnologías y herramientas
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#" />
@@ -13,7 +13,7 @@
 
 ---
 
-### GitHub Stats (Repositories Public)
+### Estadísticas de GitHub (repositorios públicos)
 
 <table border="0">
   <tr>
@@ -32,11 +32,12 @@
 
 ---
 
-### Currently working on:
+### Actualmente trabajando en:
 
 - Sistema de evaluaciones educativas en ASP.NET
 - Automatización de calificación con Vertex AI y Gemini 2.5 (Evalúa respuestas de alumnos con o sin imagen cargada)
+- Sistema de gestión logística y financiera para una empresa eléctrica
   
-### Currently learning:
+### Actualmente aprendiendo:
 - Integración de IA con Vertex AI y Gemini 2.5 usando C#
 - Desarrollo Full Stack con Node.js, React, TypeScript y NestJS
