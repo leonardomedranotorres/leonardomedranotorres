@@ -2,13 +2,15 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#" />
-  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="40" alt="Java logo" />
-  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" width="40" alt="PHP" />
-  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" alt=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" width="40" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="NodeJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" alt="NestJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="NextJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlserver/sqlserver-original.svg" width="40" alt="SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
 </p>
 
 ---
@@ -32,12 +34,8 @@
 
 ---
 
-### Actualmente trabajando en:
+### Actualmente trabajando en
 
-- Sistema de evaluaciones educativas en ASP.NET
-- Automatización de calificación con Vertex AI y Gemini 2.5 (Evalúa respuestas de alumnos con o sin imagen cargada)
-- Sistema de gestión logística y financiera para una empresa eléctrica
-  
-### Actualmente aprendiendo:
-- Integración de IA con Vertex AI y Gemini 2.5 usando C#
-- Desarrollo Full Stack con Node.js, React, TypeScript y NestJS
+• Plataforma de evaluaciones educativas en ASP.NET  
+• Automatización de calificación con IA usando Vertex AI y Gemini 2.5 (análisis de texto e imágenes)  
+• Sistema web de gestión logística y financiera para empresa eléctrica
