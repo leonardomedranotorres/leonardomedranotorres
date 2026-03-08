@@ -5,6 +5,7 @@ Ingeniero Informático especializado en desarrollo backend, arquitectura de sist
 Más de 3 años diseñando y modernizando sistemas críticos en entornos académicos y corporativos, con experiencia en integración de IA generativa en producción, automatización de procesos y plataformas de alta concurrencia.
 
 Intereses actuales:
+
 • Inteligencia artificial aplicada a educación y gestión documental  
 • Arquitectura backend escalable  
 • Sistemas basados en LLM y RAG  
@@ -49,20 +50,13 @@ Intereses actuales:
 
 ### Estadísticas de GitHub (repositorios públicos)
 
-<table border="0">
-<tr>
-<td>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leonardomedranotorres&show_icons=true&theme=tokyonight&count_private=true" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=leonardomedranotorres&show_icons=true&theme=tokyonight" />
-
-</td>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardomedranotorres&layout=compact&theme=tokyonight" />
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardomedranotorres&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
