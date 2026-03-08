@@ -27,7 +27,6 @@ Intereses actuales:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" alt="Angular" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" alt="VueJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlserver/sqlserver-original.svg" width="40" alt="SQL Server" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" alt="Oracle" />
@@ -65,14 +64,6 @@ Intereses actuales:
 </td>
 </tr>
 </table>
-
----
-
-### Actualmente trabajando en
-
-• Plataforma de evaluaciones educativas en ASP.NET  
-• Automatización de calificación con IA usando Vertex AI y Gemini 2.5 (análisis de texto e imágenes)  
-• Sistema web de gestión logística y financiera para empresa eléctrica  
 
 ---
 
