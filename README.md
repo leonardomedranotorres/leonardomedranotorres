@@ -47,9 +47,6 @@ Intereses actuales:
 • Automatización de análisis de texto e imagen con LLMs  
 
 ---
-<img src="https://github-readme-stats.vercel.app/api?username=leonardomedranotorres&show_icons=true&theme=dark&cache_seconds=1800" />
-
----
 ### Proyectos destacados
 
 **Asistente IA para el Sistema de Admisión – UNJFSC**
