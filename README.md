@@ -47,13 +47,7 @@ Intereses actuales:
 • Automatización de análisis de texto e imagen con LLMs  
 
 ---
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=leonardomedranotorres&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardomedranotorres&layout=compact&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=leonardomedranotorres&show_icons=true&theme=dark&cache_seconds=1800" />
 
 ---
 ### Proyectos destacados
