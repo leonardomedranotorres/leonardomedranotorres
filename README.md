@@ -52,40 +52,6 @@ Más de 3 años diseñando y modernizando sistemas críticos en entornos académ
 
 ---
 
-**GradeSight IA**
-
-Plataforma de evaluación académica con inteligencia artificial.
-
-• Generación automática de preguntas  
-• Corrección automática de respuestas (texto e imagen)  
-• Detección de plagio y uso excesivo de IA  
-• Feedback inmediato con dashboards pedagógicos  
-
----
-
-**EcoSight – LegalTech**
-
-Motor RAG para auditoría automatizada de EIAsd.
-
-• Vertex AI + LangChain  
-• Integración con normativa MINAM y SERFOR  
-• Generación automática de hallazgos con trazabilidad normativa  
-• Reducción de revisiones de días a minutos  
-
----
-
-### Arquitectura y sistemas
-
-Experiencia diseñando sistemas empresariales con:
-
-• Arquitecturas desacopladas  
-• Infraestructura Dockerizada  
-• Integración de múltiples bases de datos  
-• Transacciones distribuidas (JTA/XA – 2PC)  
-• Garantía de consistencia ACID en entornos heterogéneos  
-
----
-
 ### Contacto
 
 LinkedIn  
