@@ -48,11 +48,4 @@ Más de 3 años diseñando y modernizando sistemas críticos en entornos académ
 • Asistente basado en arquitectura RAG con Gemini  
 • Integrado a bases institucionales para consultas en tiempo real  
 • Atención automatizada 24/7 para postulantes  
-• Reducción significativa de carga operativa en admisión masiva  
-
----
-
-### Contacto
-
-LinkedIn  
-https://linkedin.com/in/leonardomedranotorres
+• Reducción significativa de carga operativa en admisión masiva
